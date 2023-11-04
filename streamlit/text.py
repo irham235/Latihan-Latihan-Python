@@ -1,0 +1,4 @@
+# Function ini digunakan untuk menampilkan sebuah normal teks
+import streamlit as st 
+
+st.text('Halo, calon praktisi data masa depan.')
